@@ -14,7 +14,7 @@
  * 11. Write a tester to test your class (all methods).
  */
 
-//testing 
+
 
 public class Even {
 
